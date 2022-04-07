@@ -1,2 +1,1 @@
-# pointer-solana-pay
- 
+# Take payments IRL with Solana Pay
